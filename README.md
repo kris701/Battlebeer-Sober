@@ -1,7 +1,7 @@
 # Battlebeer-Sober
 
 This was an old school project to make a game. Our group went all in, and made it from scratch in C# and XNA. We even made case for it for handing it in to our teacher. 
-Most of what could be called a "story" in the game is in Danish, and i have 0 ways to change that. But dont worry, you wont miss out on some good lore.
+Most of what could be called a "story" in the game is in Danish, and i have 0 ways to change that, and i have lost the source files. But dont worry, you wont miss out on some good lore.
 The idea of the game came from call of duty arcade mode from black ops, however with a spin on it. Instead of killing zombies, you are curing people from being drunk. Dont question how it works, it just does. You can then unlock more levels, where each level the people gain more HP and are faster. There are also some powerups that you can get, where they are pretty much the same as was in COD.
 
 XNA framework is beyond dead, however the game can still be played in its install format. Have fun with it, because we had fun making it.
